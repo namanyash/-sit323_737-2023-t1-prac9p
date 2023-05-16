@@ -1,0 +1,7 @@
+{
+  "jwtSecret": "calculatorMicroservice",
+  "mongoURI": "mongodb://admin:adminpassword@localhost:9000/?retryWrites=true&w=majority&authMechanism=DEFAULT",
+  "mongoUsername": "admin",
+  "mongoPassword": "adminpassword",
+  "mongoEndpoint": "localhost:9000"
+}

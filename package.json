@@ -1,0 +1,24 @@
+{
+  "name": "9p",
+  "version": "1.0.0",
+  "description": "Please not that the image `namanyash/sit323-737-2023-t1-prac7p` for Kubernetes deployment has been pushed to DockerHub.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kubernetes/client-node": "^0.18.1",
+    "config": "^3.3.9",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22",
+    "winston": "^3.8.2"
+  }
+}
